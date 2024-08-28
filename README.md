@@ -26,7 +26,7 @@
 
 ###
 
-<h1 align="left">What i listen to</h1>
+<h2 align="left">What i listen to</h2>
 
 ###
 
