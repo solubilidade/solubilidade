@@ -1,4 +1,4 @@
-<h1 align="left">Hey cutie, i'm Bloom 👋</h1>
+<h1 align="left">Info</h1>
 
 ###
 
