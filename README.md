@@ -1,8 +1,8 @@
-<h1 align="left">tipo pai de mulher feia ando sossegado!</h1>
+<h1 align="left">tipo pai de mulher feia ando sossegado</h1>
 
 ###
 
-<p align="left"></p>
+<p align="left">📌 - RJ ZS</p>
 
 ###
 
