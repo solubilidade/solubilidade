@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧠 - really curious person from Brazil<br>🖥 - really new to programming, starting simple<br>📚 - in my last year of highschool, i hope<br>🎧 - when i'm not busy i just listen to music<br>📛 - active only on discord, kinda stopped using twitter<br>💤 - really slow in general, specially when it comes to learning, don't get mad at me 🙏</p>
+<p align="left">♾ - Stream Love Supreme!</p>
 
 ###
 
