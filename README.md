@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">♾ - Stream Love Supreme!</p>
+<p align="left">tipo pai de mulher feia ando sossegado!</p>
 
 ###
 
