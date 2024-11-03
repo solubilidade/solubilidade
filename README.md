@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Learning / will learn</h2>
+<h2 align="left">Learning</h2>
 
 ###
 
