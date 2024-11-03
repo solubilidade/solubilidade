@@ -41,13 +41,3 @@
 <h1 align="left"></h1>
 
 ###
-
-<div align="center">
-  <img height="500" src="https://images.alphacoders.com/128/thumb-1920-1289646.png"  />
-</div>
-
-###
-
-<h5 align="center">peak anime, go watch it</h5>
-
-###
