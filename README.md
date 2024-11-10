@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📌 - RJ ZS</p>
+<p align="left">📌 - RJ</p>
 
 ###
 
