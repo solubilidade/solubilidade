@@ -1,8 +1,8 @@
-<h1 align="left">tipo pai de mulher feia ando sossegado</h1>
+<h1 align="left">愛がない</h1>
 
 ###
 
-<p align="left">📌 - RJ</p>
+<p align="left">i don't really do anything here</p>
 
 ###
 
