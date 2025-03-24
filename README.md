@@ -14,7 +14,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </p>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solubilidade&" alt="solubilidade" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=solubilidade&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</p>
 
 ##
 
