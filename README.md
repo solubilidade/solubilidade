@@ -2,9 +2,8 @@
 
 # !</
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=solubilidade&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solubilidade&theme=nord_dark" alt="GitHub Stats" />
 </p>
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
