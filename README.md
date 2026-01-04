@@ -16,6 +16,13 @@
 </p>
 
 ##
+<div style="font-family: 'Roboto', sans-serif;">
+  <a target="_blank" rel="noopener noreferrer">bloom</a> he/him<br />
+  i'll always like spam and follow back<br />
+  mostly into <a target="_blank" rel="noopener noreferrer">romance, slice of life, and action</a><br />
+  i never drop anime or manga under any circumstances
+</div>
+<br />
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=du5t3olhif2p7u3xc6w9e92ne">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=du5t3olhif2p7u3xc6w9e92ne" alt="Data Card for Spotify">
 </a>
