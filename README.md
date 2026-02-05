@@ -13,7 +13,7 @@ beginner in all of these btw!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
   <p align="center">
-<img src="https://i.imgur.com/dZIvgtK.jpeg />
+  <img src="https://i.imgur.com/dZIvgtK.jpeg" alt="Collab" />
 </p>
 </p>
 </p>
