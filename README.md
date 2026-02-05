@@ -1,11 +1,9 @@
-<p align="center">
-# "Can we go gome now"
-  </p>
+<h1 align="center">"If you love me right, then who knows?"</h1>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solubilidade&theme=dark" alt="GitHub Stats" />
 </p>
 <p align="center">  
-beginner in all of these btw!
+[Beginner]
 </p>
 <p align="center">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -19,3 +17,4 @@ beginner in all of these btw!
 </p>
 </p>
 </p>
+<h2 align="center">"I might let you make me Juno"</h2>
