@@ -1,9 +1,10 @@
-#
+# info
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solubilidade&theme=dark" alt="GitHub Stats" />
 </p>
 <p align="center">  
 beginner in all of these btw!
+  # info
   </p>
 <p align="center">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
