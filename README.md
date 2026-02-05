@@ -26,8 +26,14 @@
 
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solubilidade&theme=dark" alt="GitHub Stats" />
+
+<div align="center">
+  <a href="https://open.spotify.com/user/du5t3olhif2p7u3xc6w9e92ne">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=du5t3olhif2p7u3xc6w9e92ne&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+  
 </p>
-    
 </p>
 </p>
 </p>
