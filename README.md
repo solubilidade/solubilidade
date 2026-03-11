@@ -1,7 +1,7 @@
 <h1 align="center">"「忙しい女」"</h1>
 
   <p align="center">
-  <img src="https://files.catbox.moe/r39fp3.png" alt="Collab" />
+  <img src="https://files.catbox.moe/103y1l.png" alt="Collab" />
 
 <p align="center">  
 [Beginner]
