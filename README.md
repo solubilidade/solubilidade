@@ -1,10 +1,5 @@
-<h1 align="center">"「忙しい女」"</h1>
-
-  <p align="center">
-  <img src="https://files.catbox.moe/103y1l.png" alt="Collab" />
-
+<h1 align="center">「無制限」</h1>
 <p align="center">  
-[Beginner]
 </p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -22,6 +17,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
 
+  <p align="center">
+  <img src="https://files.catbox.moe/kxqlas.png" alt="Collab" />
+
+<div align="center">
+<a href="https://feds.lol/b-">
+  <img src="https://feds.lol/b-/opengraph-image" width="400">
+</a>
+</div>
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solubilidade&theme=dark" alt="GitHub Stats" />
 
@@ -30,9 +34,12 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=du5t3olhif2p7u3xc6w9e92ne&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-  
+    </div>
+  </div>
+</a>
+</a>
+</a>
 </p>
 </p>
 </p>
 </p>
-<h2 align="center"></h2>
