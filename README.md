@@ -21,8 +21,8 @@
   <img src="https://files.catbox.moe/kxqlas.png" alt="Collab" />
 
 <div align="center">
-<a href="https://feds.lol/b-">
-  <img src="https://feds.lol/b-/opengraph-image" width="400">
+<a href="https://feds.lol/bl4o">
+  <img src="https://feds.lol/bl4o/opengraph-image" width="400">
 </a>
 </div>
 
